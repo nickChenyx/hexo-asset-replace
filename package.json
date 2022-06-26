@@ -1,0 +1,26 @@
+{
+  "name": "hexo-asset-replace",
+  "version": "1.0.0",
+  "description": "replace asset expression if you need",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickchenyx/hexo-asset-replace.git"
+  },
+  "keywords": [
+    "hexo",
+    "plugin",
+    "asset",
+    "image",
+    "path"
+  ],
+  "author": "nickChenyx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickchenyx/hexo-asset-replace/issues"
+  },
+  "homepage": "https://github.com/nickchenx/hexo-asset-replace#readme"
+}
